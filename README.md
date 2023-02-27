@@ -10,3 +10,4 @@
 ## updates after first review
 - i changed the active section adding and removing to be more dynamic
 ##### i hope you like it :smile:
+For preview : https://fares-basousy.github.io/Responsive-page/
